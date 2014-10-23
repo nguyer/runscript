@@ -1,0 +1,9 @@
+{
+	"port" : 12345,
+	"a2e0438c-4a05-457b-9796-f37ef23f2871" : {
+		"description" : "Sample scripts",
+		"restart"     : {
+			"path" : "/tmp/restart.sh"
+		}
+	}
+}
